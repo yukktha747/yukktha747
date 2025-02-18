@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**yukktha747/yukktha747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm S Yukktha! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🚀 About Me
+I'm a Python developer and motivated individual with expertise in technology solutions and project management, aiming to apply analytical skills and creativity to drive innovation and 
+operational excellence in a dynamic organization.
+
+
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yukkthas/)
+
+
+
+## 🛠 Skills
+Javascript, HTML,CSS,Python,Git,Node js,Java
+
+
+## Contact
+
+📫 How to reach me
+    
+    yukkthas@gmail.com
+
+
+
