@@ -1,6 +1,5 @@
 # 👋 Hi, I'm S Yukktha!
 
-![Banner](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1400&auto=format&fit=crop)
 
 ## 🚀 About Me
 
@@ -13,6 +12,7 @@ I'm a motivated and passionate developer with expertise in:
 - Web Development
 - Project Management
 - Problem Solving
+- Artificial Intelligence
 
 I enjoy building real-world applications, learning new technologies, and creating innovative solutions that improve efficiency and user experience.
 
@@ -20,8 +20,7 @@ I enjoy building real-world applications, learning new technologies, and creatin
 
 # 🧠 Currently Working On
 
-- 📧 Spam Email Detection using Machine Learning
-- 📊 Data Analysis Projects
+- 📊 DSA
 - 🌐 Streamlit Web Applications
 - 🤖 NLP & AI Projects
 
@@ -29,50 +28,20 @@ I enjoy building real-world applications, learning new technologies, and creatin
 
 # 🛠 Tech Stack
 
-## 👨‍💻 Programming Languages
+### 👨‍💻 Programming
+Python.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🤖 AI/ML
+Machine Learning, Deep Learning, NLP, Data Analysis
 
----
+### 📚 Libraries & Frameworks
+Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn
 
-## 🌐 Frontend
+### 🌐 Web & Deployment
+HTML, CSS, Streamlit, Flask, Git, GitHub
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## ⚙️ Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
----
-
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-# 🔥 Projects
-
-## 📧 Spam Email Detector
-Machine Learning project that detects whether a message is Spam or Not Spam using NLP and Naive Bayes.
-
-### Tech Used
-- Python
-- Scikit-learn
-- TF-IDF
-- Streamlit
-
----
+### 🗄 Database
+SQL, MySQL
 
 # 🌐 Connect With Me
 
