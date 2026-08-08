@@ -23,7 +23,7 @@
 <div align="center">
 
 ![Degree](https://img.shields.io/badge/B.E._Computer_Science-CGPA_8.45-161B22?style=flat-square&labelColor=161B22&color=1F6FEB)
-![University](https://img.shields.io/badge/CMR_Institute_of_Technology-161B22?style=flat-square&labelColor=161B22&color=1F6FEB))
+![University](https://img.shields.io/badge/CMR_Institute_of_Technology-161B22?style=flat-square&labelColor=161B22&color=1F6FEB)
 ![Location](https://img.shields.io/badge/Bengaluru,_Karnataka-161B22?style=flat-square&labelColor=161B22&color=1F6FEB)
 
 </div>
