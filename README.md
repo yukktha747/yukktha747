@@ -1,7 +1,7 @@
 <!-- refreshed 2026-08-08T11:14:51Z -->
 <div align="center">
 
-![Banner]([https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:39FF14&height=200&section=header&text=S%20Yukktha&fontSize=60&fontColor=39FF14&fontAlignY=35&desc=Automation%20Testing%20%E2%86%92%20AI%20Evaluation%20%26%20AI%2FML%20Engineering&descAlignY=55&descColor=FFFFFF&animation=fadeIn)](https://chatgpt.com/s/m_6a7710241064819194049fc3ba33d782)
+![Banner]([https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:39FF14&height=200&section=header&text=S%20Yukktha&fontSize=60&fontColor=39FF14&fontAlignY=35&desc=Automation%20Testing%20%E2%86%92%20AI%20Evaluation%20%26%20AI%2FML%20Engineering&descAlignY=55&descColor=FFFFFF&animation=fadeIn)]]
 
 </div>
 
