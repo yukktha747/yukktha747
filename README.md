@@ -255,10 +255,10 @@ $ ./github-analytics --render
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yukktha747&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=F0F6FC&bg_color=161B22" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=yukktha747&theme=transparent&hide_border=true&background=161B22&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=F0F6FC&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=F0F6FC" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yukktha747&show_icons=true&theme=transparent&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&bg_color=161B22" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=yukktha747&theme=transparent&hide_border=true&background=161B22&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukktha747&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=F0F6FC&bg_color=161B22" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukktha747&layout=compact&theme=transparent&hide_border=true&title_color=39FF14&text_color=FFFFFF&bg_color=161B22" width="49%" />
 
 </div>
 
