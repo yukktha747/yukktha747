@@ -7,16 +7,16 @@
 
 <div align="center">
 
-                                              ```
-                                              $ whoami
-                                              > S Yukktha — Associate QA Engineer @ O9 Solutions
-                                              $ current_stack --list
-                                              > Playwright (TS) | Python | SQL | Jenkins CI/CD | AI Automation Testing
-                                              $ building
-                                              > Interview Ready Agents — multi-agent RAG (CrewAI + LangGraph + Qdrant)
-                                              $ status
-                                              > transitioning: QA Automation -> AI/ML & AI Evaluation Engineering
-                                              ```
+                                      ```
+                                      $ whoami
+                                      > S Yukktha — Associate QA Engineer @ O9 Solutions
+                                      $ current_stack --list
+                                      > Playwright (TS) | Python | SQL | Jenkins CI/CD | AI Automation Testing
+                                      $ building
+                                      > Interview Ready Agents — multi-agent RAG (CrewAI + LangGraph + Qdrant)
+                                      $ status
+                                      > transitioning: QA Automation -> AI/ML & AI Evaluation Engineering
+                                      ```
 
 </div>
 
