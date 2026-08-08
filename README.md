@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:00E676&height=200&section=header&text=S%20Yukktha&fontSize=60&fontColor=00E676&fontAlignY=35&desc=Automation%20Testing%20%E2%86%92%20AI%20Evaluation%20%26%20AI%2FML%20Engineering&descAlignY=55&descColor=FFFFFF&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:39FF14&height=200&section=header&text=S%20Yukktha&fontSize=60&fontColor=39FF14&fontAlignY=35&desc=Automation%20Testing%20%E2%86%92%20AI%20Evaluation%20%26%20AI%2FML%20Engineering&descAlignY=55&descColor=FFFFFF&animation=fadeIn)
 
 </div>
 
@@ -21,24 +21,24 @@ $ status
 
 <div align="center">
 
-![Degree](https://img.shields.io/badge/B.E._Computer_Science-CGPA_8.45-0D1117?style=flat-square&labelColor=0D1117&color=00E676)
-![University](https://img.shields.io/badge/CMR_Institute_of_Technology-0D1117?style=flat-square&labelColor=0D1117&color=00E676)
-![Location](https://img.shields.io/badge/Bengaluru,_Karnataka-0D1117?style=flat-square&labelColor=0D1117&color=00E676)
+![Degree](https://img.shields.io/badge/B.E._Computer_Science-CGPA_8.45-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
+![University](https://img.shields.io/badge/CMR_Institute_of_Technology-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
+![Location](https://img.shields.io/badge/Bengaluru,_Karnataka-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
 
 </div>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E676&labelColor=0D1117)](https://github.com/yukktha747)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E676&labelColor=0D1117)](mailto:yukkthas@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0D1117)](https://github.com/yukktha747)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117)](mailto:yukkthas@gmail.com)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yukktha747&color=00E676&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/yukktha747?color=00E676&style=flat-square&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/yukktha747?color=00E676&style=flat-square&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=yukktha747&color=39FF14&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/yukktha747?color=39FF14&style=flat-square&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/yukktha747?color=39FF14&style=flat-square&labelColor=0D1117)
 
 </div>
 
@@ -62,17 +62,17 @@ OPEN_TO  : AI/ML Engineer, AI Evaluation Engineer, QA Automation + AI Hybrid rol
 
 **Testing & Automation**
 
-![Playwright](https://skillicons.dev/icons?i=playwright)
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![Playwright](https://img.shields.io/badge/Playwright-0D1117?style=flat-square&logo=playwright&logoColor=39FF14&labelColor=0D1117&color=39FF14)
 
 **Languages & Core Tools**
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
-![PyCharm](https://skillicons.dev/icons?i=pycharm)
+![PyCharm](https://img.shields.io/badge/PyCharm-0D1117?style=flat-square&logo=pycharm&logoColor=39FF14&labelColor=0D1117&color=39FF14)
 
 ---
 
@@ -80,12 +80,12 @@ OPEN_TO  : AI/ML Engineer, AI Evaluation Engineer, QA Automation + AI Hybrid rol
 
 <div align="center">
 
-![AI Automation Testing](https://img.shields.io/badge/AI_Automation_Testing-0D1117?style=flat-square&labelColor=0D1117&color=00E676)
-![Test Automation](https://img.shields.io/badge/Test_Automation-0D1117?style=flat-square&labelColor=0D1117&color=00E676)
-![Regression Testing](https://img.shields.io/badge/Regression_Testing-0D1117?style=flat-square&labelColor=0D1117&color=00E676)
-![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-0D1117?style=flat-square&labelColor=0D1117&color=00E676)
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-0D1117?style=flat-square&labelColor=0D1117&color=00E676)
-![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-0D1117?style=flat-square&labelColor=0D1117&color=00E676)
+![AI Automation Testing](https://img.shields.io/badge/AI_Automation_Testing-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
+![Test Automation](https://img.shields.io/badge/Test_Automation-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
+![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
+![Multi--Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
 
 </div>
 
@@ -157,7 +157,7 @@ OPEN_TO  : AI/ML Engineer, AI Evaluation Engineer, QA Automation + AI Hybrid rol
 - Configured Jenkins CI/CD pipeline to trigger automated test runs on every daily build, generating detailed test reports and reducing manual QA effort by ~30%
 - Collaborated with cross-functional development and QA teams to clarify requirements, reproduce issues, and ensure timely defect resolution
 
-`Tags:` ![](https://img.shields.io/badge/-Playwright-0D1117?style=flat-square&color=00E676) ![](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&color=00E676) ![](https://img.shields.io/badge/-Jenkins-0D1117?style=flat-square&color=00E676) ![](https://img.shields.io/badge/-CI%2FCD-0D1117?style=flat-square&color=00E676)
+`Tags:` ![](https://img.shields.io/badge/-Playwright-0D1117?style=flat-square&color=39FF14) ![](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&color=39FF14) ![](https://img.shields.io/badge/-Jenkins-0D1117?style=flat-square&color=39FF14) ![](https://img.shields.io/badge/-CI%2FCD-0D1117?style=flat-square&color=39FF14)
 
 ---
 
@@ -179,7 +179,7 @@ OPEN_TO  : AI/ML Engineer, AI Evaluation Engineer, QA Automation + AI Hybrid rol
 
 ## `$ ./education --badge`
 
-[![CMR Institute of Technology](https://img.shields.io/badge/B.E._Computer_Science-CMR_Institute_of_Technology-0D1117?style=for-the-badge&labelColor=0D1117&color=00E676)](https://github.com/yukktha747)
+[![CMR Institute of Technology](https://img.shields.io/badge/B.E._Computer_Science-CMR_Institute_of_Technology-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14)](https://github.com/yukktha747)
 
 `Dec 2021 – Jun 2025` · CGPA: 8.45 · Bengaluru, Karnataka
 
@@ -193,10 +193,10 @@ OPEN_TO  : AI/ML Engineer, AI Evaluation Engineer, QA Automation + AI Hybrid rol
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yukktha747&show_icons=true&theme=transparent&hide_border=true&title_color=00E676&icon_color=00E676&text_color=FFFFFF&bg_color=0D1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yukktha747&theme=transparent&hide_border=true&background=0D1117&ring=00E676&fire=00E676&currStreakLabel=00E676&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yukktha747&show_icons=true&theme=transparent&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&bg_color=0D1117" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=yukktha747&theme=transparent&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukktha747&layout=compact&theme=transparent&hide_border=true&title_color=00E676&text_color=FFFFFF&bg_color=0D1117" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukktha747&layout=compact&theme=transparent&hide_border=true&title_color=39FF14&text_color=FFFFFF&bg_color=0D1117" width="49%" />
 
 </div>
 
@@ -216,7 +216,7 @@ OPEN_TO  : AI/ML Engineer, AI Evaluation Engineer, QA Automation + AI Hybrid rol
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yukktha747&bg_color=0D1117&color=00E676&line=00E676&point=FFFFFF&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yukktha747&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
@@ -276,8 +276,8 @@ open_to:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E676&labelColor=0D1117)](https://github.com/yukktha747)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E676&labelColor=0D1117)](mailto:yukkthas@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0D1117)](https://github.com/yukktha747)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117)](mailto:yukkthas@gmail.com)
 
 *"Test rigor and eval rigor are the same discipline — just pointed at different outputs."*
 
@@ -285,6 +285,6 @@ open_to:
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=0:0D1117,100:00E676&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=0:0D1117,100:39FF14&height=120&section=footer)
 
 </div>
