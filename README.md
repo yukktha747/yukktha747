@@ -190,29 +190,6 @@ OPEN_TO  : AI/ML Engineer, AI Evaluation Engineer, QA Automation + AI Hybrid rol
 
 ---
 
-## `$ ./github-analytics --render`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yukktha747&show_icons=true&theme=transparent&hide_border=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=FFFFFF&bg_color=161B22" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=yukktha747&theme=transparent&hide_border=true&background=161B22&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukktha747&layout=compact&theme=transparent&hide_border=true&title_color=1F6FEB&text_color=FFFFFF&bg_color=161B22" width="49%" />
-
-</div>
-
----
-
-## `$ ./trophies --columns=7`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=yukktha747&theme=algolia&no-frame=true&no-bg=true&column=7&row=1&title=Repositories,Followers,Stars,Commits,PullRequest,Issues,Experience)
-
-</div>
-
----
-
 ## `$ ./activity-graph --render`
 
 <div align="center">
