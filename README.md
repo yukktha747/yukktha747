@@ -213,20 +213,7 @@ OPEN_TO  : AI/ML Engineer, AI Evaluation Engineer, QA Automation + AI Hybrid rol
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yukktha747&theme=github_dark&utcOffset=5.5" width="49%" />
 
 </div>
-
 ---
----
-
-## `$ ./Certifications --full`
-
-<div align="center">
-
-<img src="" width="49%" />
-
-<img src="" width="49%" />
-<img src="" width="49%" />
-
-</div>
 
 ---
 ## `$ ./snake --animate`
