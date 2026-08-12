@@ -215,7 +215,20 @@ OPEN_TO  : AI/ML Engineer, AI Evaluation Engineer, QA Automation + AI Hybrid rol
 </div>
 
 ---
+---
 
+## `$ ./Certifications --full`
+
+<div align="center">
+
+<img src="" width="49%" />
+
+<img src="" width="49%" />
+<img src="" width="49%" />
+
+</div>
+
+---
 ## `$ ./snake --animate`
 
 <div align="center">
